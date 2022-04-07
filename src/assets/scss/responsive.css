@@ -1,0 +1,112 @@
+@media (max-width: 1100px) {
+    .container {
+        max-width: 100%;
+    }
+    .team .team_content .pad ul li a {
+        height: 35px;
+        width: 35px;
+    }
+    .team .team_content .pad ul li a svg {
+        font-size: 18px;
+    }
+    .footer .inner_conrent .col_menu .sosial li a svg {
+        font-size: 21px;
+    }
+    .header .navbar.navbar-expand.navbar-light .navbar-nav a {
+        margin: 0px 11px;
+    }
+}
+@media (max-width: 768px) {
+    .about_section {
+        padding: 20px 0px;
+    }
+    .about_section h1 {
+        font-size: 28px;
+    }
+    .about_detils {
+        padding: 40px 0;
+    }
+    .about_detils p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .about_detils h2 {
+        margin-bottom: 15px;
+        font-size: 22px;
+    }
+    .custom_heading span.our {
+        font-size: 28px;
+        line-height: 16px;
+    }
+    .custom_heading h2 {
+        font-size: 28px;
+    }
+    .custom_heading {
+        margin-bottom: 25px;
+    }
+    .philosophy .philosophy_content {
+        padding-right: 15px;
+    }
+    .philosophy p,
+    .vision .vision_content p,
+    .mission .mission_content p {
+        font-size: 12px;
+        line-height: 23px;
+    }
+    .philosophy {
+        padding: 40px 0;
+    }
+    .vision {
+        padding: 20px 0 10px 0;
+    }
+    .vision .layer {
+        padding-bottom: 40px;
+    }
+    .mission {
+        padding: 50px 0 0 0;
+    }
+    .custom_heading.center strong {
+        font-size: 28px;
+    }
+    .team .team_content .pad ul li a {
+        height: 25px;
+        width: 25px;
+    }
+    .team .team_content .pad ul li a svg {
+        font-size: 14px;
+    }
+    .footer {
+        padding: 40px 0 20px 0;
+    }
+    .footer .inner_conrent .col_menu h5 {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .footer .inner_conrent .col_menu .menu_list li a {
+        font-size: 12px;
+    }
+    .footer .inner_conrent .col_menu .menu_list li {
+        margin-bottom: 2px;
+    }
+    .footer .inner_conrent .col_menu h6 {
+        font-size: 10px;
+    }
+}
+@media (max-width: 639px) {
+    .footer .inner_conrent .col_menu {
+        width: 100%;
+    }
+    .footer .footer_content {
+        padding-right: 15px;
+        margin-bottom: 15px;
+    }
+    .team .team_content {
+        margin-bottom: 15px;
+    }
+    .mobile_header {
+        display: block;
+    }
+    .desktop_show {
+        display: none;
+    }
+}
